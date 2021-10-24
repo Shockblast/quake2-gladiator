@@ -1,0 +1,61 @@
+
+Title:           Evil Ernie for the Gladiator bot
+Filename:        gbc092_ernie.zip
+Version:         bot version 0.92
+Date:            1999-04-05
+Author:          Felix
+Email:           felix@joice.net
+Bot Homepage:    -
+Q2 Player model: Evil Ernie (http://magarn.3dpalette.com/ernie.zip)
+
+
+Description
+-----------
+
+Gladiator bot character Evil Ernie, to be used with the PPM of the
+same name. The model can be found at http://magarn.3dpalette.com in
+the models section. Works with standard models too, but it's not
+really the same thing :)
+
+
+Installing the bot character
+----------------------------
+
+Unzip the .zip file into your Gladiator folder (using for
+instance WinZIP). Don't forget to unzip the file with sub-folders.
+
+The new bot character will automatically appear in the bot menu.
+
+The included .cfg file can also be executed from the console to
+add the new bot character directly to the game without using the
+menu (type "exec bots/filename.cfg" on the console).
+
+
+Copyright and distribution permissions 
+--------------------------------------
+
+By using these data files you agree to exempt, without reservation,
+the authors and owners of this production or components thereof
+from any responsibility for liability, damage caused, or loss,
+directly or indirectly, by this software, including but not limited
+to, any interruptions of service, loss of business, or any other
+consequential damages resulting from the use of or operation of
+these data files or components thereof. No warranties are made, expressed
+or implied, regarding the usage, functionality, or implied operability
+of these data files. All elements are available solely on an "as-is"
+basis. Usage is subject to the user's own risk.
+
+These data files are in no way supported by Squatt, Mr Elusive or MrFreeze.
+
+
+Availability
+------------
+
+The latest version can be found at http://www.botepidemic.com/gladiator.
+
+
+Version Changes
+---------------
+
+-
+

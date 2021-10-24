@@ -1,0 +1,74 @@
+Title          : EPiLePSy for the Gladiator bot
+Filename       : gbc092_epilepsy.zip
+Version        : bot version 0.92
+Date           : 1999-04-01
+Author         : Dmitri "Zindahsh" Kolesnikov
+Email          : zindahsh@hotmail.com
+Bot Homepage   : it will be here later
+Q2 Player model: CrackWore - http://www.idsoftware.com/psteed/q2_cw.exe
+		 	   - http://www.quake2hq.com/h-t/crakhor+.zip
+Q2 Player skin : crakhorb
+
+
+Description
+-----------
+
+   That bitch kill everyone who stay on her way! Kidz don't play with
+that female-devil. All what i can say - KILL MACHINE!
+
+Note: DO NOT show that bot to children under 18 yrs old!
+
+
+Installing the bot character
+----------------------------
+
+Unzip the .zip file into your Gladiator folder (using for
+instance WinZIP). Don't forget to unzip the file with sub-folders.
+
+The new bot character will automatically appear in the bot menu.
+
+The included .cfg file can also be executed from the console to
+add the new bot character directly to the game without using the
+menu (type "exec bots/filename.cfg" on the console).
+
+
+Copyright and distribution permissions 
+--------------------------------------
+
+By using these data files you agree to exempt, without reservation,
+the authors and owners of this production or components there of
+from any responsibility for liability, damage caused, or loss,
+directly or indirectly, by this software, including but not limited
+to, any interruptions of service, loss of business, or any other
+consequential damages resulting from the use of or operation of
+these data files or components thereof. No warranties are made, expressed
+or implied, regarding the usage, functionality, or implied operability
+of these data files. All elements are available solely on an "as-is"
+basis. Usage is subject to the user's own risk.
+
+You are NOT allowed to commercially exploit this bot, i.e. put it on a CD
+or any other electronic medium that is sold for money without my explicit
+permission!
+
+You MAY distribute this character through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.
+
+Athors MAY NOT use this bot as a base to build additional characters!!!
+
+
+These data files are in no way supported by Squatt, Mr Elusive or MrFreeze.
+
+
+Availability
+------------
+
+The latest version can be found at http://www.botepidemic.com/gladiator.
+
+
+Version Changes
+---------------
+
+-
+
+
